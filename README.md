@@ -5,14 +5,14 @@
 <div style="padding: 20px;">
 <h3>My Expertise Is:</h3>
 <ul style="display: flex; align-items: center; list-style: none;">
-    <li><img width="50px" src="./Assets/Images/Logos/html.png" alt=""></li>
-    <li><img width="50px" src="./Assets/Images/Logos/css.png" alt=""></li>
-    <li><img width="50px" src="./Assets/Images/Logos/bootstrap.png" alt=""></li>
-    <li><img width="50px" src="./Assets/Images/Logos/tailwind.png" alt=""></li>
-    <li><img width="50px" src="./Assets/Images/Logos/js.png" alt=""></li>
-    <li><img width="50px" src="./Assets/Images/Logos/react.png" alt=""></li>
-    <li><img width="50px" src="./Assets/Images/Logos/git.png" alt=""></li>
-    <li><img width="50px" src="./Assets/Images/Logos/github.png" alt=""></li>
+    <li><img style="display:inline-block;" width="50px" src="./Assets/Images/Logos/html.png" alt=""></li>
+    <li><img style="display:inline-block;" width="50px" src="./Assets/Images/Logos/css.png" alt=""></li>
+    <li><img style="display:inline-block;" width="50px" src="./Assets/Images/Logos/bootstrap.png" alt=""></li>
+    <li><img style="display:inline-block;" width="50px" src="./Assets/Images/Logos/tailwind.png" alt=""></li>
+    <li><img style="display:inline-block;" width="50px" src="./Assets/Images/Logos/js.png" alt=""></li>
+    <li><img style="display:inline-block;" width="50px" src="./Assets/Images/Logos/react.png" alt=""></li>
+    <li><img style="display:inline-block;" width="50px" src="./Assets/Images/Logos/git.png" alt=""></li>
+    <li><img style="display:inline-block;" width="50px" src="./Assets/Images/Logos/github.png" alt=""></li>
 
 </ul>
 </div>
