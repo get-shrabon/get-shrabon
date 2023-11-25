@@ -6,4 +6,8 @@
 <h3>My Expertise Is:👨‍🔬</h3>
 <img src="./Assets/Images/all logo.png" alt="Typing">
 <img src="./Assets/Images/programmer.png" alt="Typing">
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrabon-talukder-30158b257/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shrbon.talukder)
 </div>
