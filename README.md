@@ -4,8 +4,8 @@
 <img src="./Assets/Images/frist-imgae.png" alt="Typing">
 <div style="padding: 20px;">
 <h3>My Expertise Is:👨‍🔬</h3>
-<img src="./Assets/Images/all logo.png" alt="Typing">
-<img src="./Assets/Images/programmer.png" alt="Typing">
+<img src="./Assets/Images/all-logo.png" alt="Slills">
+<img src="./Assets/Images/programmer.png" alt="Banner">
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/get-shrabon-30158b257/) 
